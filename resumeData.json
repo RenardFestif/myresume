@@ -371,12 +371,7 @@
             "technique":{
                 "title":"Skills",
                 "tab":[
-                    {
-                        "name":"Personal web Page",
-                        "description":"Development of my own website with the framework ReactJS",
-                        "photo":"./logo/miniature.png",
-                        "lien":""
-                    },
+                    
                     {
                         "name": "Android Development",
                         "logo": "./logo/android.png",
@@ -480,6 +475,12 @@
         "projets":{
             "titre":"Projects",
             "tab":[
+                {
+                    "name":"Personal web Page",
+                    "description":"Development of my own website with the framework ReactJS",
+                    "photo":"./logo/miniature.png",
+                    "lien":""
+                },
                 {
                     "name":"Envisonners Education",
                     "description":"Full business création project in a fours days Hackaton based format. Envisionners Education offers educatives workshops for 6 to 12 years old children as an extra-curricular activity. It is an adaptative education system which aspire to a better childhood developpement following Montessori's philosophy. We managed to gather two clients in such a short period of time.",
