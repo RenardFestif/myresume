@@ -2,9 +2,9 @@
     
     "meGen" : {
         "name"  :   "Juba    SAADI",
-        "photo" :   "logo/moi.jpg",
+        "photo" :   "./logo/moi.jpg",
         "location"  :   "Paris",
-        "downloadResume"    :   "/resume.pdf",
+        "downloadResume"    :   "./resume.pdf",
         "social":[
         {
             "name"  :   "linkedin",
@@ -119,7 +119,7 @@
                 "tab":[
                     {
                         "name": "Developpement Android",
-                        "logo": "logo/android.png",
+                        "logo": "./logo/android.png",
                         "color": "#33cc33",
                         "textColor":"#ffff",
                         "tools":[
@@ -129,7 +129,7 @@
                     },
                     {
                         "name": "Developpement Web",
-                        "logo": "logo/web.png",
+                        "logo": "./logo/web.png",
                         "color": "#F2884B",
                         "textColor":"#ffff",
                         "tools":[
@@ -142,7 +142,7 @@
                     },
                     {
                         "name": "Administration de Systeme",
-                        "logo": "logo/admin.png",
+                        "logo": "./logo/admin.png",
                         "color": "#d9d9d9",
                         "tools":[
                             {"name":"Linux"},
@@ -152,7 +152,7 @@
                     },
                     {
                         "name": "Versioning",
-                        "logo": "logo/git.png",
+                        "logo": "./logo/git.png",
                         "color": "#262626",
                         "textColor":"#ffff",
                         "logoColor":"#ffff",
@@ -164,12 +164,12 @@
                     },
                     {
                         "name": "Shell Scripting",
-                        "logo": "logo/script.png",
+                        "logo": "./logo/script.png",
                         "color":"#ffffe6"
                     },
                     {
                         "name": "User Interface Design",
-                        "logo": "logo/ux.png",
+                        "logo": "./logo/ux.png",
                         "color": "",
                         "tools":[
                             {"name":"Photoshop"},
@@ -222,13 +222,13 @@
                 {
                     "name":"Page Web Perso",
                     "description":"Création de ma propre page web sous ReactJS",
-                    "photo":"logo/miniature.png",
+                    "photo":"./logo/miniature.png",
                     "lien":""
                 },
                 {
                     "name":"Envisonners Education",
                     "description":"Projet de création d'entreprise sur un format style Hackaton de quatre jours. Envisionners Education propose des atelier éducatif pour enfants agées de 6 à 12 ans dans les temps périscolaire. Nous souhaitons offrir une education adaptative qui aspire à un meilleur développement personnel de l'adulte en devenir en suivant la philosophie de Montesori. Nous avons obtenus deux solide clients en ce court lapse de temps.",
-                    "photo":"logo/envisionners.png",
+                    "photo":"./logo/envisionners.png",
                     "lien":"https://mrbeaupc.wixsite.com/envisioneersedu"
                 },
                 {
@@ -240,19 +240,19 @@
                 {
                     "name":"Twister",
                     "description":"Construction d'un reséau social type twitter. Application web sous reactJS réalisé dans le cadre d'un devoir universitaire.",
-                    "photo":"logo/twister.png",
+                    "photo":"./logo/twister.png",
                     "lien":"https://github.com/RenardFestif/3I017-Twister"
                 },
                 {
                     "name":"MusiDroid",
                     "description":"Initiation à l'utilisation d'Android Studio. Application musical sous android réalisé dans le cadre d'un devoir universitaire.",
-                    "photo":"logo/musidroid.png",
+                    "photo":"./logo/musidroid.png",
                     "lien":"https://github.com/RenardFestif/2I013"
                 },
                 {
                     "name":"Concept & croquis",
                     "description":"Ici vous trouverez un ensemble de croquis, illustrations et concept réalisés avec beaucoup d'amour. ",
-                    "photo":"logo/KYITE.png",
+                    "photo":"./logo/KYITE.png",
                     "lien":"https://pin.it/dxtaopytjaooku"
                 }
                 
@@ -263,7 +263,7 @@
         "autres":{
             "titre":"Quoi d'autre ?",
             "description":"Venez jeter un oeil sur mes tableaux pinterest pour en savoir un peu plus sur ce qui me passionne. Après tout, les images parlent plus que les mots !",
-            "image":"logo/activities.png"
+            "image":"./logo/activities.png"
         
 
         }, 
@@ -374,12 +374,12 @@
                     {
                         "name":"Personal web Page",
                         "description":"Development of my own website with the framework ReactJS",
-                        "photo":"logo/miniature.png",
+                        "photo":"./logo/miniature.png",
                         "lien":""
                     },
                     {
                         "name": "Android Development",
-                        "logo": "logo/android.png",
+                        "logo": "./logo/android.png",
                         "color": "#33cc33",
                         "textColor":"#ffff",
                         "tools":[
@@ -390,7 +390,7 @@
                     },
                     {
                         "name": "Web Development",
-                        "logo": "logo/web.png",
+                        "logo": "./logo/web.png",
                         "color": "#F2884B",
                         "textColor":"#ffff",
                         "tools":[
@@ -403,7 +403,7 @@
                     },
                     {
                         "name": "System Administration",
-                        "logo": "logo/admin.png",
+                        "logo": "./logo/admin.png",
                         "color": "#d9d9d9",
                         "tools":[
                             {"name":"Linux"},
@@ -413,7 +413,7 @@
                     },
                     {
                         "name": "Versioning",
-                        "logo": "logo/git.png",
+                        "logo": "./logo/git.png",
                         "color": "#262626",
                         "textColor":"#ffff",
                         "logoColor":"#ffff",
@@ -425,12 +425,12 @@
                     },
                     {
                         "name": "Shell Scripting",
-                        "logo": "logo/script.png",
+                        "logo": "./logo/script.png",
                         "color":"#ffffe6"
                     },
                     {
                         "name": "User Interface Design",
-                        "logo": "logo/ux.png",
+                        "logo": "./logo/ux.png",
                         "color": "",
                         "tools":[
                             {"name":"Photoshop"},
@@ -483,31 +483,31 @@
                 {
                     "name":"Envisonners Education",
                     "description":"Full business création project in a fours days Hackaton based format. Envisionners Education offers educatives workshops for 6 to 12 years old children as an extra-curricular activity. It is an adaptative education system which aspire to a better childhood developpement following Montessori's philosophy. We managed to gather two clients in such a short period of time.",
-                    "photo":"logo/envisionners.png",
+                    "photo":"./logo/envisionners.png",
                     "lien":"https://mrbeaupc.wixsite.com/envisioneersedu"
                 },
                 {
                     "name":"Travelator",
                     "description":"Innovation project in a two days Hackaton at Trento (Italy). The topic was tomorrow's innovations for an eco-friendly digital city. We have imagined an ultra performant underground network that allows people to travel accros the city in an efficient way. The goal is to reduce the car traffic engendred inside the city and replaced non-used roads by new green spaces",
-                    "photo":"logo/trento.jpg",
+                    "photo":"./logo/trento.jpg",
                     "lien":"https://masterschool.eitdigital.eu/kickoff/"
                 },
                 {
                     "name":"Twister",
                     "description":"Development of a twiter-like social network. ReactJS web application developed in the frame of a scholar project",
-                    "photo":"logo/twister.png",
+                    "photo":"./logo/twister.png",
                     "lien":"https://github.com/RenardFestif/3I017-Twister"
                 },
                 {
                     "name":"MusiDroid",
                     "description":"Introduction to the bacic principles of Android Studio. Android Music application developed in the frame of a scholar project",
-                    "photo":"logo/musidroid.png",
+                    "photo":"./logo/musidroid.png",
                     "lien":"https://github.com/RenardFestif/2I013"
                 },
                 {
                     "name":"Concept & Sketches",
                     "description":"Here you will find some of my sketches, graphics, photos made with love by myself",
-                    "photo":"logo/KYITE.png",
+                    "photo":"./logo/KYITE.png",
                     "lien":"https://pin.it/dxtaopytjaooku"
                 }
 
@@ -517,7 +517,7 @@
         "autres":{
             "titre":"What else ?",
             "description":"Come and take a look at my boards on pinterest to know more about what drives me. After all, pictures speaks more than words !",
-            "image":"logo/activities.png"
+            "image":"./logo/activities.png"
             
         }
 
