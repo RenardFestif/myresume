@@ -25,10 +25,10 @@
 
         "sumup"     :   [
             {"status"    :   "étudiant en informatique"},
-            {"p" : "C’est l’histoire d’un jeune garçon âgé de 4 ans. Il se demandait si un lecteur disquette (car oui dans les années 2000 les disquettes existaient encore) pouvait lire le contenu d’un biscuit. Sa curiosité était telle qu’il introduisit le biscuit dans ledit lecteur. Comme vous pouviez l’imaginer, le petit garçon, c'était moi et puis bien évidemment le lecteur était bon pour la benne. Et si aujourd’hui les disquettes n’existent plus, ma curiosité est restée intacte et je n'hésite jamais à sortir des sentiers battus."},
+            {"p" : "C’est l’histoire d’un jeune garçon âgé de 4 ans. Il se demandait si un lecteur disquette (car oui dans les années 2000 les disquettes existaient encore) pouvait lire le contenu d’un biscuit. Sa curiosité était telle qu’il introduisit le biscuit dans ledit lecteur. Comme vous pouvez l’imaginer, le petit garçon, c'était moi et bien évidemment le lecteur était bon pour la benne. Et si aujourd’hui les disquettes n’existent plus, ma curiosité est restée intacte et je n'hésite jamais à sortir des sentiers battus."},
 
             {"p":"Actuellement j'étudie en master les infrastructures cloud et réseau à Sorbonne Université et l’an prochain je finaliserais ma spécialité Cloud and Distributed Computing à TU/Berlin."},
-            {"p":"Outre mes études, le développement des nouvelles technologies me fascinent, d'autant plus quand ces dernières sont mises au service de causes social ou environmental. "}
+            {"p":"Outre mes études, le développement des nouvelles technologies me fascine, d'autant plus quand ces dernières sont mises au service de causes sociales ou environmentales. "}
         ],
 
 
@@ -90,7 +90,7 @@
                 "employeur"     :   "Decathlon",
                 "lieu"          :   "Saint-Denis",
                 "date"          :   "2016-2019",
-                "description"   :   "Emplois à temps partiel en parallèle de mes études. Durant ces trois années j'ai pu perfectionné mes techniques de vente mais egalement approfondie mes connaissance en marketing et gestion de stock. Une de mes missions favorites fut l'administration de la visibilité numérique du magasin sur les reseaux sociaux."
+                "description"   :   "Emplois à temps partiel en parallèle de mes études. Durant ces trois années j'ai pu perfectionner mes techniques de vente mais également approfondir mes connaissance en marketing et gestion de stock. Une de mes missions favorites fut l'administration de la visibilité numérique du magasin sur les réseaux sociaux."
             },
 
             {
@@ -99,7 +99,7 @@
                 "employeur"     :   "Mairie de Saint-Denis",
                 "lieu"          :   "Saint-Denis",
                 "date"          :   "Août 2015",
-                "description"   :   "Stage d'un mois. Je me suis occupé d'un groupe d'enfant agés de 5 à 6 ans à qui j'ai pus proposer diferentes activités et sortie decouvertes sur differentes thematiques en lien avec le projet pédagogique du centre de loisir. "
+                "description"   :   "Stage d'un mois. Je me suis occupé d'un groupe d'enfant âgés de 5 à 6 ans à qui j'ai pu proposer différentes activités et sortie découvertes sur diverses thématiques en lien avec le projet pédagogique du centre de loisir. "
             },
 
             {
