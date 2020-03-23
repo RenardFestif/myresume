@@ -220,6 +220,12 @@
             "titre":"Projets",
             "tab":[
                 {
+                    "name":"Corona Solidarité",
+                    "description":"Plateforme de mise en relation pour les personnes en difficultés à Paris lors de la crise sanitaire du Covid-19. Corona Solidarité lutte contre l'isolement et l'inaccessibilité aux ressources de première nécessité.",
+                    "photo":"./logo/coronasolidarite.png",
+                    "lien":"https://coronasolidarite.org/"
+                },
+                {
                     "name":"Page Web Perso",
                     "description":"Création de ma propre page web sous ReactJS",
                     "photo":"./logo/miniature.png",
@@ -475,6 +481,12 @@
         "projets":{
             "titre":"Projects",
             "tab":[
+                {
+                    "name":"Corona Solidarité",
+                    "description":"Web Application built in order to stand against the isolation and the non-access to basics ressources in Paris during the Covid-19 outbreak",
+                    "photo":"./logo/coronasolidarite.png",
+                    "lien":"https://coronasolidarite.org/"
+                },
                 {
                     "name":"Personal web Page",
                     "description":"Development of my own website with the framework ReactJS",
