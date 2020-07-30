@@ -1,0 +1,607 @@
+{
+    
+    "meGen" : {
+        "name"  :   "Juba    SAADI",
+        "photo" :   "./logo/moi.jpg",
+        "location"  :   "Paris",
+        "downloadResume"    :   "./resume.pdf",
+        "social":[
+        {
+            "name"  :   "linkedin",
+            "url"   :   "https://www.linkedin.com/in/juba-saadi-155649129/"
+        },
+
+        {
+            "name"  :   "github-square",
+            "url"   :   "https://github.com/RenardFestif"
+        }
+
+        ]    
+    },
+        
+    
+
+    "fr" : {
+
+        "sumup"     :   [
+            {"status"    :   "étudiant en informatique"},
+            {"p" : "C’est l’histoire d’un jeune garçon qui se demandait si un lecteur disquette (car oui dans les années 2000 les disquettes existaient encore) pouvait lire le contenu d’un biscuit. Sa curiosité était telle qu’il introduisit le biscuit dans ledit lecteur. Comme vous pouvez l’imaginer, ce petit garçon, c'était moi et bien évidemment le lecteur était bon pour la benne. Et si aujourd’hui les disquettes n’existent plus, ma curiosité est restée intacte et je n'hésite jamais à sortir des sentiers battus."},
+
+            {"p":"Actuellement j'étudie en master les infrastructures cloud et réseau à Sorbonne Université. La rentrée prochaine j'intègrerais TU/Berlin pour finaliser ma spécialité Cloud and Distributed Computing."},
+            {"p":"Outre mes études, le développement des nouvelles technologies me fascine, d'autant plus quand ces dernières sont mises au service de causes sociales et environmentales. "}
+        ],
+
+
+        "title":"Chronologie",
+        "edWork" : [
+
+            {
+                "type"          :   "ed",
+                "diplome"       :   "Certificat en Innovation et Entrepreunariat",
+                "specialite"    :   "",
+                "etablissement" :   "EIT Digital",
+                "lieu"          :   "Paris-Berlin",
+                "date"          :   "En cours",
+                "description"   :    ""
+            },
+
+            {
+                "type"          :   "ed",
+                "diplome"       :   "Master en Science et Technologie en Informatique",
+                "specialite"    :   "Reseaux Informatique",
+                "etablissement" :   "Sorbonne Université",
+                "lieu"          :   "Paris",
+                "date"          :   "En cours",
+                "description"   :   "Cloud et calculs distribués"
+            },
+
+            {
+                "type"          :   "ed",
+                "diplome"       :   "Summer School",
+                "specialite"    :   "Healthcare and digital wellbeing",
+                "etablissement" :   "Eindhoven University of Technology",
+                "lieu"          :   "Eindhovenn",
+                "date"          :   "Août 2020",
+                "description"   :   "Deux semaines de formation orientée business sur des thematiques touchant aux modes de vie et changements sociétaux, avec la création d'un projet innovant en équipe"
+            },
+
+            {
+                "type"          :   "work",
+                "role"          :   "Assistant de Recherche",
+                "employeur"     :   "Lip6 (Sorbonne Université)",
+                "lieu"          :   "Paris",
+                "date"          :   "Juin-Septembre 2020",
+                "description"   :   "Recherche et simulations sur un protocole de synchronisation dans un réseau à radio cognitif dynamique"
+            },
+
+            {
+                "type"          :   "work",
+                "role"          :   "Développeur Front-End (ReactJs)",
+                "employeur"     :   "Freelancer",
+                "lieu"          :   "TéléTravail",
+                "date"          :   "Juin-Juillet 2019",
+                "description"   :   "Développement de fonctionnalités pour une application web sous ReactJS"
+            },
+
+            {
+                "type"          :   "ed",
+                "diplome"       :   "TOEFL",
+                "specialite"    :   "Test of English as a Foreign Language",
+                "etablissement" :   "ETS Global",
+                "lieu"          :   "Paris",
+                "date"          :   "2019",
+                "description"   :   "Total: 89/120"
+            },
+
+            {
+                "type"          :   "ed",
+                "diplome"       :   "Licence en Science et Technologie",
+                "specialite"    :   "Informatique",
+                "etablissement" :   "Sorbonne Université",
+                "lieu"          :   "Paris",
+                "date"          :   "2015-2019",
+                "description"   :   "" 
+            },
+
+            {
+                "type"          :   "work",
+                "role"          :   "Vendeur/Hôte",
+                "employeur"     :   "Decathlon",
+                "lieu"          :   "Saint-Denis",
+                "date"          :   "2016-2019",
+                "description"   :   "Emploi à temps partiel en parallèle de mes études. Durant ces trois années j'ai pu perfectionner mes techniques de vente mais également approfondir mes connaissances en marketing et gestion de stock. Une de mes missions favorites fut l'administration de la visibilité numérique du magasin sur les réseaux sociaux (Facebook)."
+            },
+
+            {
+                "type"          :   "work",
+                "role"          :   "Animateur en ACM",
+                "employeur"     :   "Mairie de Saint-Denis",
+                "lieu"          :   "Saint-Denis",
+                "date"          :   "Août 2015",
+                "description"   :   "Stage d'un mois. Je me suis occupé d'un groupe d'enfants âgés de 5 à 6 ans à qui j'ai pu proposer différentes activités et sorties découvertes sur diverses thématiques en lien avec le projet pédagogique du centre de loisir. "
+            },
+
+            {
+                "type"          :   "ed",
+                "diplome"       :   "Baccalaureat Scientifique",
+                "specialite"    :   "Science de la vie et de la terre",
+                "etablissement" :   "Saint-Michel des Batignolles",
+                "lieu"          :   "Paris",
+                "date"          :   "2015",
+                "description"   :   "" 
+            }
+
+        ],
+        "skills":{
+            "technique":{
+                "title":"Compétences",
+                "tab":[
+                    {
+                        "name": "Developpement Android",
+                        "logo": "./logo/android.png",
+                        "color": "#33cc33",
+                        "textColor":"#ffff",
+                        "tools":[
+                            {"name":"Android Studio"},
+                            {"name":"Java"}
+                        ]
+                    },
+                    {
+                        "name": "Developpement Web",
+                        "logo": "./logo/web.png",
+                        "color": "#F2884B",
+                        "textColor":"#ffff",
+                        "tools":[
+                            {"name":"HTML"},
+                            {"name":"CSS"},
+                            {"name":"Javascript/ReactJS"},
+                            {"name":"PHP"},
+                            {"name":"Bootstrap"}
+                        ]
+                    },
+                    {
+                        "name": "Administration de Systeme",
+                        "logo": "./logo/admin.png",
+                        "color": "#d9d9d9",
+                        "tools":[
+                            {"name":"Linux"},
+                            {"name":"Windows"},
+                            {"name":"Windows Server"}
+                        ]
+                    },
+                    {
+                        "name": "Versioning",
+                        "logo": "./logo/git.png",
+                        "color": "#262626",
+                        "textColor":"#ffff",
+                        "logoColor":"#ffff",
+                        "tools":[
+                            {"name":"GitHub"},
+                            {"name":"GitLab"},
+                            {"name":"BitBucket"}
+                        ]
+                    },
+                    {
+                        "name": "Shell Scripting",
+                        "logo": "./logo/script.png",
+                        "color":"#ffffe6"
+                    },
+                    {
+                        "name": "User Interface Design",
+                        "logo": "./logo/ux.png",
+                        "color": "",
+                        "tools":[
+                            {"name":"Photoshop"},
+                            {"name":"Illustrator"},
+                            {"name":"Java (JavaFx)"},
+                            {"name":"C++ (Qt)"}
+                        
+                        ]
+                    }
+                ],
+            
+
+                "autres":[
+                    {"name":"Python"},
+                    {"name":"NodeJs"},
+                    {"name":"Programmation en C"},
+                    {"name":"SQL/NoSQL"}
+                ]
+            },
+
+            "langues":{
+                "title":"Mes compétences linguistique",
+                "tab":[
+               {
+                   "langue":"Français",
+                   "niveau":"6",
+                   "titre":"C2"
+               },
+               {
+                   "langue":"Anglais",
+                   "niveau":"5",
+                   "titre":"C1"
+               },
+               {
+                "langue":"Kabyle",
+                "niveau":"3",
+                "titre":"B1"
+                },
+               {
+                   "langue":"Allemand",
+                   "niveau":"2",
+                   "titre":"A2"
+               }
+               
+                ]}
+        },
+        "projets":{
+            "titre":"Projets",
+            "tab":[
+                {
+                    "name": "Protocole DSync",
+                    "description" : "Assistant de Recherche pendant deux mois au laboratoire LIP6 à Sorbonne Université (Paris). Deux mois durant lesquels j'ai mené des recherches et simulations sur un protocole de synchronisation temporel distribué dans un réseau à Radio Cognitif dynamique. Je me suis tout particulièrement interessé aux algorithmes de coloriage de graph dynamique, j'ai utilisé Python pour toute la partie validation du modèle et analyse de performance des algorithmes et OMNeT++ pour tout ce qui était de la simulation",
+                    "photo" : "./logo/empty.png",
+                    "lien" : "https://github.com/RenardFestif/Dsync_AlgoPy"
+                },
+
+                {
+                    "name": "ParticipAct",
+                    "description" : "ParticipAct vise à mettre en relation des personnes souhaitant faire du volontariat à l'étranger avec des associations locales sud américaine. Co-fondeur du projet avec deux proches amies, j'ai mené toute la partie visuel et developpement du produit. Cependant due à la crise sanitaire du Covid-19 le projet à du être mis de côté",
+                    "photo" : "./logo/participact.png",
+                    "lien" : "https://participact.org"
+                },
+
+                {
+                    "name":"Corona Solidarité",
+                    "description":"Plateforme de mise en relation pour les personnes en difficultés à Paris lors de la crise sanitaire du Covid-19. Corona Solidarité lutte contre l'isolement et l'inaccessibilité aux ressources de première nécessité.",
+                    "photo":"./logo/coronasolidarite.png",
+                    "lien":"https://coronasolidarite.org/"
+                },
+                {
+                    "name":"Page Web Perso",
+                    "description":"Création de ma propre page web sous ReactJS",
+                    "photo":"./logo/miniature.png",
+                    "lien":""
+                },
+                {
+                    "name":"Envisonners Education",
+                    "description":"Projet de création d'entreprise sur un format style Hackaton de quatre jours. Envisionners Education propose des atelier éducatif pour enfants agées de 6 à 12 ans dans les temps périscolaire. Nous souhaitons offrir une education adaptative qui aspire à un meilleur développement personnel de l'adulte en devenir en suivant la philosophie de Montesori. Nous avons obtenus deux solide clients en ce court lapse de temps.",
+                    "photo":"./logo/envisionners.png",
+                    "lien":"https://mrbeaupc.wixsite.com/envisioneersedu"
+                },
+                {
+                    "name":"Travelator",
+                    "description":"Projet d'innovation sur un format style Hackaton de deux jours à Trento (Italie). Le sujet portait sur les innovations de demain pour une ville éco-résponsable. Nous avions imaginé un réseau sous-terrain ultra performant permettant ainsi de réduire le trafic automobile à la péripherie de la ville et de remplacer les axes anciennement utilisés par de nouveaux espaces verts",
+                    "photo":"logo/trento.jpg",
+                    "lien":"https://masterschool.eitdigital.eu/kickoff/"
+                },
+                {
+                    "name":"Twister",
+                    "description":"Construction d'un reséau social type twitter. Application web sous reactJS réalisé dans le cadre d'un devoir universitaire.",
+                    "photo":"./logo/twister.png",
+                    "lien":"https://github.com/RenardFestif/3I017-Twister"
+                },
+                {
+                    "name":"MusiDroid",
+                    "description":"Initiation à l'utilisation d'Android Studio. Application musical sous android réalisé dans le cadre d'un devoir universitaire.",
+                    "photo":"./logo/musidroid.png",
+                    "lien":"https://github.com/RenardFestif/2I013"
+                },
+                {
+                    "name":"Concept & croquis",
+                    "description":"Ici vous trouverez un ensemble de croquis, illustrations et concept réalisés avec beaucoup d'amour. ",
+                    "photo":"./logo/KYITE.png",
+                    "lien":"https://pin.it/dxtaopytjaooku"
+                }
+                
+
+            ]
+        },
+
+        "autres":{
+            "titre":"Quoi d'autre ?",
+            "description":"Venez jeter un oeil sur mes tableaux pinterest pour en savoir un peu plus sur ce qui me passionne. Après tout, les images parlent plus que les mots !",
+            "image":"./logo/activities.png"
+        
+
+        }, 
+        
+        "contact":{
+           
+        }
+        
+
+    },
+
+    "en" : {
+
+        "sumup"     :   [
+            {"status"    :   "Computer Science student"},
+            {"p": "This is the story of a 4 years old boy. He was wondering if a floppy disk drive ( back in the early 2000's, floppy disk was still somehow surviving in some households) could ever read the content of a chocolate cookie. His curiosity was such that he had to put the biscuit inside the the disk reader. As you would expect this boys was me and for sure the floppy disk drive was completely broken. If today floppy disk have disappeared, my curiosity still remains unchanged and I never hesitate to go off the beaten tracks."},
+
+            {"p":"I'm currently preparing a master degree in 'Cloud and Network infrastructure' at Sorbonne Université in Paris and next year I will finish my specialty 'Cloud and Distributed Computing' at TU/Berlin."},
+                
+            {"p":"Beside my scholar curriculum, I'm fascinated by new technologies and how it may be applied to social and environmental causes."}
+           ],
+
+        "title":"TimeLine",
+        "edWork" : [
+            {
+                "type"          :   "ed",
+                "diplome"       :   "Certification in Innovation et Entrepreneurship",
+                "specialite"    :   "",
+                "etablissement" :   "EIT Digital",
+                "lieu"          :   "Paris-Berlin",
+                "date"          :   "In progress",
+                "description"   :    ""
+            },
+
+            {
+                "type"          :   "ed",
+                "diplome"       :   "Master in Science and Technology in Computer Science",
+                "specialite"    :   "Computer Networks",
+                "etablissement" :   "Sorbonne Université",
+                "lieu"          :   "Paris",
+                "date"          :   "In progress",
+                "description"   :   "Cloud and distributed computing"
+            },
+
+            {
+                "type"          :   "ed",
+                "diplome"       :   "Summer School",
+                "specialite"    :   "Healthcare and digital wellbeing",
+                "etablissement" :   "Eindhoven University of Technology",
+                "lieu"          :   "Eindhovenn",
+                "date"          :   "August 2020",
+                "description"   :   "Two weeks of business oriented teaching towards healty lifestyles and social change, with an innovating team project building"
+            },
+
+            {
+                "type"          :   "work",
+                "role"          :   "Assistant de Recherche",
+                "employeur"     :   "Lip6 Sorbonne Université",
+                "lieu"          :   "Paris",
+                "date"          :   "Juin-Septembre 2020",
+                "description"   :   "Research and simulations on a time synchronization protocol in a dynamic Cognitive Radio Network"
+            },
+
+            {
+                "type"          :   "work",
+                "role"          :   "Front-End Developer (ReactJs)",
+                "employeur"     :   "Freelance",
+                "lieu"          :   "remote work",
+                "date"          :   "June-July 2019",
+                "description"   :   "Development of webapp features with ReactJS"
+            },
+
+            {
+                "type"          :   "ed",
+                "diplome"       :   "TOEFL",
+                "specialite"    :   "Test of English as a Foreign Language",
+                "etablissement" :   "ETS Global",
+                "lieu"          :   "Paris",
+                "date"          :   "2019",
+                "description"   :   "Total: 89/120"
+            },
+
+            {
+                "type"          :   "ed",
+                "diplome"       :   "Bachelor in Science and Technology",
+                "specialite"    :   "Computer Science",
+                "etablissement" :   "Sorbonne Université",
+                "lieu"          :   "Paris",
+                "date"          :   "2015-2019",
+                "description"   :   "" 
+            },
+
+            {
+                "type"          :   "work",
+                "role"          :   "Sport Salesman",
+                "employeur"     :   "Decathlon",
+                "lieu"          :   "Saint-Denis",
+                "date"          :   "2016-2019",
+                "description"   :   "Part time job during my bachelor. I have been able to work and perfect my skills in selling but I also have deepen my knowledge about marketing and stock managment. One of my favourite mission was the management of the online community and visibility of the store on social media (Facebbook)."
+            },
+
+            {
+                "type"          :   "work",
+                "role"          :   "Early childhood educator",
+                "employeur"     :   "mayor of Saint-Denis",
+                "lieu"          :   "Saint-Denis",
+                "date"          :   "August 2015",
+                "description"   :   "One month internship. I took care of a group of 5 to 6 years old children to whom I have suggested a large panel of activities and scholar trip on different thematics linked to the pedagogical project of the recreation center. "
+            },
+
+            {
+                "type"          :   "ed",
+                "diplome"       :   "Scientific High School Diploma",
+                "specialite"    :   "Biology",
+                "etablissement" :   "Saint-Michel des Batignolles",
+                "lieu"          :   "Paris",
+                "date"          :   "2015",
+                "description"   :   "" 
+            }
+    
+        ],
+        
+        "skills":{
+            "technique":{
+                "title":"Skills",
+                "tab":[
+                    
+                    {
+                        "name": "Android Development",
+                        "logo": "./logo/android.png",
+                        "color": "#33cc33",
+                        "textColor":"#ffff",
+                        "tools":[
+                            {"name":"Android Studio"},
+                            {"name":"Java"}
+                            
+                        ]
+                    },
+                    {
+                        "name": "Web Development",
+                        "logo": "./logo/web.png",
+                        "color": "#F2884B",
+                        "textColor":"#ffff",
+                        "tools":[
+                            {"name":"HTML"},
+                            {"name":"CSS"},
+                            {"name":"Javascript/ReactJS"},
+                            {"name":"PHP"},
+                            {"name":"Bootstrap"}
+                        ]
+                    },
+                    {
+                        "name": "System Administration",
+                        "logo": "./logo/admin.png",
+                        "color": "#d9d9d9",
+                        "tools":[
+                            {"name":"Linux"},
+                            {"name":"Windows"},
+                            {"name":"Windows Server"}
+                        ]
+                    },
+                    {
+                        "name": "Versioning",
+                        "logo": "./logo/git.png",
+                        "color": "#262626",
+                        "textColor":"#ffff",
+                        "logoColor":"#ffff",
+                        "tools":[
+                            {"name":"GitHub"},
+                            {"name":"GitLab"},
+                            {"name":"BitBucket"}
+                        ]
+                    },
+                    {
+                        "name": "Shell Scripting",
+                        "logo": "./logo/script.png",
+                        "color":"#ffffe6"
+                    },
+                    {
+                        "name": "User Interface Design",
+                        "logo": "./logo/ux.png",
+                        "color": "",
+                        "tools":[
+                            {"name":"Photoshop"},
+                            {"name":"Illustrator"},
+                            {"name":"Java (JavaFx)"},
+                            {"name":"C++ (Qt)"}
+                        
+                        ]
+                    }
+                ],
+            
+
+                "autres":[
+                    {"name":"Python"},
+                    {"name":"NodeJs"},
+                    {"name":"Programmation en C"},
+                    {"name":"SQL/NoSQL"}
+                ]
+            },
+
+            "langues":{
+                "title":"Languages",
+                "tab":[
+               {
+                   "langue":"French",
+                   "niveau":"6",
+                   "titre":"C2"
+               },
+               {
+                   "langue":"English",
+                   "niveau":"5",
+                   "titre":"C1"
+               },
+               {
+                    "langue":"Kabyle",
+                    "niveau":"3",
+                    "titre":"B1"
+                },
+               {
+                   "langue":"German",
+                   "niveau":"2",
+                   "titre":"A2"
+               }
+               
+                ]}
+        },
+        "projets":{
+            "titre":"Projects",
+            "tab":[
+                {
+                    "name": "DSync Protocol",
+                    "description" : "I worked as a Research assitant for two month at the LIP6 laboratory at Sorbonne Université (Paris). During that time I was conducting research and simulations on a time synchronization protocol in a Dynamic Cognitive Radio Network. I was mainly working on the graph coloring part with dynamic node, and I used Python for the performance analysis of the algorithms and OMNeT++ for the simulation part",
+                    "photo" : "./logo/empty.png",
+                    "lien" : "https://github.com/RenardFestif/Dsync_AlgoPy"
+                },
+
+                {
+                    "name": "ParticipAct",
+                    "description" : "ParticipAct aims to connect people willing to volunteer abroad with local South American associations. Co-founder of the project with two close friends, I was leading the visual aspect and the development of the product. Unfortunately due to the Covid-19 Sanitary crisis the project had to be postponed.",
+                    "photo" : "./logo/participact.png",
+                    "lien" : "https://participact.org"
+                },
+
+                {
+                    "name":"Corona Solidarité",
+                    "description":"Web Application built in order to stand against the isolation and the non-access to basics ressources in Paris during the Covid-19 outbreak",
+                    "photo":"./logo/coronasolidarite.png",
+                    "lien":"https://coronasolidarite.org/"
+                },
+                {
+                    "name":"Personal web Page",
+                    "description":"Development of my own website with the framework ReactJS",
+                    "photo":"./logo/miniature.png",
+                    "lien":""
+                },
+                {
+                    "name":"Envisonners Education",
+                    "description":"Full business création project in a fours days Hackaton based format. Envisionners Education offers educatives workshops for 6 to 12 years old children as an extra-curricular activity. It is an adaptative education system which aspire to a better childhood developpement following Montessori's philosophy. We managed to gather two clients in such a short period of time.",
+                    "photo":"./logo/envisionners.png",
+                    "lien":"https://mrbeaupc.wixsite.com/envisioneersedu"
+                },
+                {
+                    "name":"Travelator",
+                    "description":"Innovation project in a two days Hackaton at Trento (Italy). The topic was tomorrow's innovations for an eco-friendly digital city. We have imagined an ultra performant underground network that allows people to travel accros the city in an efficient way. The goal is to reduce the car traffic engendred inside the city and replaced non-used roads by new green spaces",
+                    "photo":"./logo/trento.jpg",
+                    "lien":"https://masterschool.eitdigital.eu/kickoff/"
+                },
+                {
+                    "name":"Twister",
+                    "description":"Development of a twiter-like social network. ReactJS web application developed in the frame of a scholar project",
+                    "photo":"./logo/twister.png",
+                    "lien":"https://github.com/RenardFestif/3I017-Twister"
+                },
+                {
+                    "name":"MusiDroid",
+                    "description":"Introduction to the bacic principles of Android Studio. Android Music application developed in the frame of a scholar project",
+                    "photo":"./logo/musidroid.png",
+                    "lien":"https://github.com/RenardFestif/2I013"
+                },
+                {
+                    "name":"Concept & Sketches",
+                    "description":"Here you will find some of my sketches, graphics, photos made with love by myself",
+                    "photo":"./logo/KYITE.png",
+                    "lien":"https://pin.it/dxtaopytjaooku"
+                }
+
+            ]
+        },
+
+        "autres":{
+            "titre":"What else ?",
+            "description":"Come and take a look at my boards on pinterest to know more about what drives me. After all, pictures speaks more than words !",
+            "image":"./logo/activities.png"
+            
+        }
+
+    }
+
+   
+}
+

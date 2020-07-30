@@ -1,0 +1,119 @@
+/*General*/
+ul{
+    list-style: none;
+}
+
+html * {
+    font-family: 'Roboto', sans-serif;
+}
+a * {
+    text-decoration: none;
+    color: black;
+}
+
+.row-full{
+    width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    height: 100px;
+    margin-top: 100px;
+    left: 50%;
+   }
+
+
+/*Header Styles*/
+.center {
+    justify-content: center;  
+}
+
+.header{
+    justify-content: center;
+    margin: 1em;
+}
+
+.title{
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding-top:1em
+}
+
+.activityBox{
+    margin:1em;
+    margin-top:2em;
+    display: flex;
+    
+}
+.activityIcon:hover{
+    cursor: pointer;
+}
+.activityIcon{
+    height:32px;
+    width:32px
+}
+
+.flippyCard{
+    font-family: 'Comfortaa', cursive;
+}
+
+.mailBox{
+    margin-bottom: 1em;
+}
+
+.bg{
+    background-color: "#595959";
+}
+
+.paralax{
+      /* The image used */
+      background-image: url("/logo/bg20.jpg");
+      
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.paralax2{
+      /* The image used */
+  background-image: url("/logo/corfou2.jpg");
+
+
+}
+
+/*Responsive*/
+
+@media only screen and (max-device-width: 480px){
+    .prog{
+        width:16em;
+        align-self: center;
+    }
+}
+@media only screen and (min-device-width: 481px){
+    .prog{
+        width:32em;
+        align-self: center;
+    }
+}
+
+
+@media only screen and (min-device-width: 799px){
+    
+    .formCaptcha{
+        display: block;
+    };
+    
+    
+}
+@media only screen and (min-device-width: 800px){
+    .formCaptcha{
+        display: flex;
+        margin-bottom: 1em;
+    }
+    
+}
