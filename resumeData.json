@@ -25,10 +25,10 @@
 
         "sumup"     :   [
             {"status"    :   "étudiant en informatique"},
-            {"p" : "C’est l’histoire d’un jeune garçon âgé de 4 ans. Il se demandait si un lecteur disquette (car oui dans les années 2000 les disquettes existaient encore) pouvait lire le contenu d’un biscuit. Sa curiosité était telle qu’il introduisit le biscuit dans ledit lecteur. Comme vous pouvez l’imaginer, le petit garçon, c'était moi et bien évidemment le lecteur était bon pour la benne. Et si aujourd’hui les disquettes n’existent plus, ma curiosité est restée intacte et je n'hésite jamais à sortir des sentiers battus."},
+            {"p" : "C’est l’histoire d’un jeune garçon qui se demandait si un lecteur disquette (car oui dans les années 2000 les disquettes existaient encore) pouvait lire le contenu d’un biscuit. Sa curiosité était telle qu’il introduisit le biscuit dans ledit lecteur. Comme vous pouvez l’imaginer, ce petit garçon, c'était moi et bien évidemment le lecteur était bon pour la benne. Et si aujourd’hui les disquettes n’existent plus, ma curiosité est restée intacte et je n'hésite jamais à sortir des sentiers battus."},
 
-            {"p":"Actuellement j'étudie en master les infrastructures cloud et réseau à Sorbonne Université et l’an prochain je finaliserai ma spécialité Cloud and Distributed Computing à TU/Berlin."},
-            {"p":"Outre mes études, le développement des nouvelles technologies me fascine, d'autant plus quand ces dernières sont mises au service de causes sociales ou environmentales. "}
+            {"p":"Actuellement j'étudie en master les infrastructures cloud et réseau à Sorbonne Université. La rentrée prochaine j'intègrerais TU/Berlin pour finaliser ma spécialité Cloud and Distributed Computing."},
+            {"p":"Outre mes études, le développement des nouvelles technologies me fascine, d'autant plus quand ces dernières sont mises au service de causes sociales et environmentales. "}
         ],
 
 
@@ -52,7 +52,26 @@
                 "etablissement" :   "Sorbonne Université",
                 "lieu"          :   "Paris",
                 "date"          :   "En cours",
-                "description"   :    "Cloud et calculs distribués"
+                "description"   :   "Cloud et calculs distribués"
+            },
+
+            {
+                "type"          :   "ed",
+                "diplome"       :   "Summer School",
+                "specialite"    :   "Healthcare and digital wellbeing",
+                "etablissement" :   "Eindhoven University of Technology",
+                "lieu"          :   "Eindhovenn",
+                "date"          :   "Août 2020",
+                "description"   :   "Deux semaines de formation orientée business sur des thematiques touchant aux modes de vie et changements sociétaux, avec la création d'un projet innovant en équipe"
+            },
+
+            {
+                "type"          :   "work",
+                "role"          :   "Assistant de Recherche",
+                "employeur"     :   "Lip6 (Sorbonne Université)",
+                "lieu"          :   "Paris",
+                "date"          :   "Juin-Septembre 2020",
+                "description"   :   "Recherche et simulations sur un protocole de synchronisation dans un réseau à radio cognitif dynamique"
             },
 
             {
@@ -220,6 +239,20 @@
             "titre":"Projets",
             "tab":[
                 {
+                    "name": "Protocole DSync",
+                    "description" : "Assistant de Recherche pendant deux mois au laboratoire LIP6 à Sorbonne Université (Paris). Deux mois durant lesquels j'ai mené des recherches et simulations sur un protocole de synchronisation temporel distribué dans un réseau à Radio Cognitif dynamique. Je me suis tout particulièrement interessé aux algorithmes de coloriage de graph dynamique, j'ai utilisé Python pour toute la partie validation du modèle et analyse de performance des algorithmes et OMNeT++ pour tout ce qui était de la simulation",
+                    "photo" : "./logo/empty.png",
+                    "lien" : "https://github.com/RenardFestif/Dsync_AlgoPy"
+                },
+
+                {
+                    "name": "ParticipAct",
+                    "description" : "ParticipAct vise à mettre en relation des personnes souhaitant faire du volontariat à l'étranger avec des associations locales sud américaine. Co-fondeur du projet avec deux proches amies, j'ai mené toute la partie visuel et developpement du produit. Cependant due à la crise sanitaire du Covid-19 le projet à du être mis de côté",
+                    "photo" : "./logo/participact.png",
+                    "lien" : "https://participact.org"
+                },
+
+                {
                     "name":"Corona Solidarité",
                     "description":"Plateforme de mise en relation pour les personnes en difficultés à Paris lors de la crise sanitaire du Covid-19. Corona Solidarité lutte contre l'isolement et l'inaccessibilité aux ressources de première nécessité.",
                     "photo":"./logo/coronasolidarite.png",
@@ -312,6 +345,25 @@
                 "lieu"          :   "Paris",
                 "date"          :   "In progress",
                 "description"   :   "Cloud and distributed computing"
+            },
+
+            {
+                "type"          :   "ed",
+                "diplome"       :   "Summer School",
+                "specialite"    :   "Healthcare and digital wellbeing",
+                "etablissement" :   "Eindhoven University of Technology",
+                "lieu"          :   "Eindhovenn",
+                "date"          :   "August 2020",
+                "description"   :   "Two weeks of business oriented teaching towards healty lifestyles and social change, with an innovating team project building"
+            },
+
+            {
+                "type"          :   "work",
+                "role"          :   "Assistant de Recherche",
+                "employeur"     :   "Lip6 Sorbonne Université",
+                "lieu"          :   "Paris",
+                "date"          :   "Juin-Septembre 2020",
+                "description"   :   "Research and simulations on a time synchronization protocol in a dynamic Cognitive Radio Network"
             },
 
             {
@@ -481,6 +533,20 @@
         "projets":{
             "titre":"Projects",
             "tab":[
+                {
+                    "name": "DSync Protocol",
+                    "description" : "I worked as a Research assitant for two month at the LIP6 laboratory at Sorbonne Université (Paris). During that time I was conducting research and simulations on a time synchronization protocol in a Dynamic Cognitive Radio Network. I was mainly working on the graph coloring part with dynamic node, and I used Python for the performance analysis of the algorithms and OMNeT++ for the simulation part",
+                    "photo" : "./logo/empty.png",
+                    "lien" : "https://github.com/RenardFestif/Dsync_AlgoPy"
+                },
+
+                {
+                    "name": "ParticipAct",
+                    "description" : "ParticipAct aims to connect people willing to volunteer abroad with local South American associations. Co-founder of the project with two close friends, I was leading the visual aspect and the development of the product. Unfortunately due to the Covid-19 Sanitary crisis the project had to be postponed.",
+                    "photo" : "./logo/participact.png",
+                    "lien" : "https://participact.org"
+                },
+
                 {
                     "name":"Corona Solidarité",
                     "description":"Web Application built in order to stand against the isolation and the non-access to basics ressources in Paris during the Covid-19 outbreak",
