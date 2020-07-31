@@ -28,7 +28,7 @@
             {"p" : "C’est l’histoire d’un jeune garçon qui se demandait si un lecteur disquette (car oui dans les années 2000 les disquettes existaient encore) pouvait lire le contenu d’un biscuit. Sa curiosité était telle qu’il introduisit le biscuit dans ledit lecteur. Comme vous pouvez l’imaginer, ce petit garçon, c'était moi et bien évidemment le lecteur était bon pour la benne. Et si aujourd’hui les disquettes n’existent plus, ma curiosité est restée intacte et je n'hésite jamais à sortir des sentiers battus."},
 
             {"p":"Actuellement j'étudie en master les infrastructures cloud et réseau à Sorbonne Université. La rentrée prochaine j'intègrerais TU/Berlin pour finaliser ma spécialité Cloud and Distributed Computing."},
-            {"p":"Outre mes études, le développement des nouvelles technologies me fascine, d'autant plus quand ces dernières sont mises au service de causes sociales et environmentales. "}
+            {"p":"Outre mes études, le développement des nouvelles technologies me fascine, d'autant plus quand ces dernières sont mises au service de causes sociales et environementales. "}
         ],
 
 
@@ -247,7 +247,7 @@
 
                 {
                     "name": "ParticipAct",
-                    "description" : "ParticipAct vise à mettre en relation des personnes souhaitant faire du volontariat à l'étranger avec des associations locales sud américaine. Co-fondeur du projet avec deux proches amies, j'ai mené toute la partie visuel et developpement du produit. Cependant due à la crise sanitaire du Covid-19 le projet à du être mis de côté",
+                    "description" : "ParticipAct vise à mettre en relation des personnes souhaitant faire du volontariat à l'étranger avec des associations locales sud américaine. Co-fondeur du projet, j'ai mené toute la partie visuel et developpement du produit. Cependant due à la crise sanitaire du Covid-19 le projet à du être mis de côté",
                     "photo" : "./logo/participact.png",
                     "lien" : "https://participact.org"
                 },
