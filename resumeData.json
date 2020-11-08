@@ -47,12 +47,31 @@
 
             {
                 "type"          :   "ed",
+                "diplome"       :   "Master in Computer Science",
+                "specialite"    :   "Cloud Computing",
+                "etablissement" :   "TU/Berlin",
+                "lieu"          :   "Berlin",
+                "date"          :   "En cours",
+                "description"   :   ""
+            },
+
+            {
+                "type"          :   "ed",
                 "diplome"       :   "Master en Science et Technologie en Informatique",
                 "specialite"    :   "Reseaux Informatique",
                 "etablissement" :   "Sorbonne Université",
                 "lieu"          :   "Paris",
-                "date"          :   "En cours",
-                "description"   :   "Cloud et calculs distribués"
+                "date"          :   "2019-2020",
+                "description"   :   ""
+            },
+
+            {
+                "type"          :   "work",
+                "role"          :   "Business Developer",
+                "employeur"     :   "Swapfiets",
+                "lieu"          :   "Paris",
+                "date"          :   "Septembre-Octobre 2020",
+                "description"   :   "Ouverture du premier shop en france, formation des équipes, marketing, ainsi que la mise en place d'un prototype de plannification automatique optimal des livraison de vélo dans Paris"
             },
 
             {
@@ -62,7 +81,7 @@
                 "etablissement" :   "Eindhoven University of Technology",
                 "lieu"          :   "Eindhovenn",
                 "date"          :   "Août 2020",
-                "description"   :   "Deux semaines de formation orientée business sur des thematiques touchant aux modes de vie et changements sociétaux, avec la création d'un projet innovant en équipe"
+                "description"   :   "Equipe gagnante de deux semaines de formation orientée business sur des thematiques touchant aux modes de vie et changements sociétaux, avec la création d'un projet innovant"
             },
 
             {
@@ -339,12 +358,31 @@
 
             {
                 "type"          :   "ed",
+                "diplome"       :   "Master in Computer Science",
+                "specialite"    :   "Cloud Computing",
+                "etablissement" :   "TU/Berlin",
+                "lieu"          :   "Berlin",
+                "date"          :   "In progress",
+                "description"   :   ""
+            },
+
+            {
+                "type"          :   "ed",
                 "diplome"       :   "Master in Science and Technology in Computer Science",
                 "specialite"    :   "Computer Networks",
                 "etablissement" :   "Sorbonne Université",
                 "lieu"          :   "Paris",
-                "date"          :   "In progress",
-                "description"   :   "Cloud and distributed computing"
+                "date"          :   "2019-2020",
+                "description"   :   ""
+            },
+
+            {
+                "type"          :   "work",
+                "role"          :   "Business Developer",
+                "employeur"     :   "Swapfiets",
+                "lieu"          :   "Paris",
+                "date"          :   "Septembre-Octobre 2020",
+                "description"   :   "Opening of the first shop in France. Team training, marketing, and prototyping of an automatic delivery planing of the bikes in Paris"
             },
 
             {
